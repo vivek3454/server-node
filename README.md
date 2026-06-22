@@ -194,17 +194,3 @@ The server authenticates WebSocket connections via the JWT stored in cookies.
 4. Socket.IO connections are authenticated by reading the JWT from the cookie on the handshake request.
 
 ---
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/my-feature`
-3. Commit your changes: `git commit -m 'Add my feature'`
-4. Push to the branch: `git push origin feature/my-feature`
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **ISC License**.
